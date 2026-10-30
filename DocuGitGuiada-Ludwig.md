@@ -619,5 +619,5 @@ El **-u** sirve para recordar los nombres, asi luego solo tienes que hacer **$ g
 
 Tambien podriamos usar, para mandar los repositorios locales a GitHub:
 ``` bash 
-$ git remote add origin https://github.com/ludwigSMOG/PracticaGuiadaGit
+$ git remote add origin https://github.com/ludwigSMOG/practica_guiada_git
 ```
